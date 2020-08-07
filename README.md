@@ -1,4 +1,4 @@
-### Hi there, I'm Liam - aka [Omouye][website] 👋
+### Hi there, I'm Liam - aka [Omouye] 👋
 
 ## I'm a Student in Epitech Rennes !
 - 🔭 I’m currently working on a [VS Code Course]
